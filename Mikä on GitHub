@@ -1,0 +1,10 @@
+GitHub mahdollistaa myös saman tiedon parissa työskentelyn eri tietokoneilta.
+Saman tiedon parissa työskennellään kuitenkin usein eri tietokoneilta (mikroluokka, kotikone, jne.).
+
+Toisaalta versiohallinta toimii myös varmuuskopiona työllesi.
+Näin tieto ei häviä, vaikka tietokoneesi hajoaisi.
+
+GitHub (ja myös GitLab) ovat palveluita, joissa voidaan pitää Git-muotoisia varastoja (Repository). 
+Ne mahdollistavat tiedon jakamisen muille saman tiedon parissa työskenteleville henkilöille. 
+GitHub:a olevia repositorio joka on kytketty paikalliseen Git työkansioon on ns. remote. 
+Remote taas puolestaan tunnetaan Git komennoissa nimellä Origin, tosin nimi on vaihdettavissa.
